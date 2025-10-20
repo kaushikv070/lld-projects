@@ -64,5 +64,5 @@ leave 4
 To add new commands, implement the `Command` interface in the `command` package and register it in the `CommandFactory`.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Learning deployment License - see the LICENSE file for details.
 
